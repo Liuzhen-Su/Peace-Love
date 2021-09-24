@@ -1,4 +1,4 @@
-# 平安复旦自动打卡
+# Peace & Love
 
 使用GitHub Actions实现全自动打卡。
 
